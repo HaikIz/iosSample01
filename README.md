@@ -7,7 +7,7 @@ Sample of iOS Program
 
 このプログラムは、サンプルとして作成したもので、コンパイルできるかどうかも分からないものです。
 
-## SampleText01
+## SampleTest01
 JSONデータを取得するためのプログラム
 
 
